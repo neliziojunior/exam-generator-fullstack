@@ -1,0 +1,15 @@
+# dependências
+node_modules
+
+#build
+dist
+build
+
+#variáveis de ambiente
+.env
+
+#logs
+npm-debug.log*
+
+#sistema
+.DS_Store
